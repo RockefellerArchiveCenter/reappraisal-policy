@@ -1,4 +1,4 @@
-# Exhibit Program Policies and Procedures
+# Reappraisal Policy
 This policy contains the principles and criteria for archival reappraisal at the Rockefeller Archive Center.
 
 ## Accessing the guide
