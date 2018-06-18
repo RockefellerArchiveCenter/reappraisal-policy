@@ -112,7 +112,7 @@ To make an informed reappraisal decision, the following questions will be answer
     disposition of the records if they are deemed inappropriate for the
     RAC (transfer or disposal)?
 
-    D. Reappraisal Recommendation Workflow
+D. Reappraisal Recommendation Workflow
 
 After answering the above questions, the appraisal archivist will make a recommendation for the records to the Director of Archives.The Director of Archives will submit the recommendation to the members of the Archives Management Team for comment. Based on the comments received, the recommendation will be revised and a final version will be resubmitted to the Director of Archives who will pass the recommendation on to the President of the Rockefeller Archive Center for a final disposition decision. Any follow-up actions at this point will be coordinated with Archive Center administration as steps to implement the reappraisal decision may be situationally specific.
 
