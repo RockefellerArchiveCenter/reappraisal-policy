@@ -69,12 +69,15 @@ J. Are there clearly established legal commitments that require the RAC to retai
 ## The Reappraisal Process
 
 A.  Background Information
+
 Background information on the collection being reappraised should be compiled prior to beginning the reappraisal process. This should include checking accession records, collection files (including collection assessments and correspondence) and processing assessments in order to review data about the collections, their size, ownership status, and restrictions. Collection surveys, which often contain information about what types of digital records or special formats are present in collections and their scope within the collections, may also be useful. The resulting data is used to answer the reappraisal questions below.
 
 B.  Submission Process
+
 Potential reappraisal projects should be submitted to the appraisal archivist. The staff member making the submission should complete the first part of the Reappraisal Form (See Appendix A) and submit a copy to the Appraisal Archivist. The appraisal archivist will submit the request to the Director of Archives and the President of the Rockefeller Archive Center for approval to begin the reappraisal process.
 
 C. Reappraisal Questions
+
 To make an informed reappraisal decision, the following questions will be answered in the context of the Reappraisal Form (See Appendix A).
 
 -   What is the collection name associated with the records?
@@ -146,20 +149,26 @@ Disposal of the records should be a last option. It may be necessary because of 
 Documentation generated during the reappraisal process is incorporated into the collection file. It may include the following:
 
 A. Reappraisal Form
+
 Each reappraised set of records has a completed reappraisal form. This form includes information pertaining to the questions above including: collection name, donor contact information, collection history, agreements and restrictions, acquisition information, content of the collection, collection use history, etc. The form may also be accompanied by notes relating to the reappraisal process.
 
 B. Donor Letter(s)
+
 If it is determined that a collection is to be deaccessioned, then a letter goes to the donor or their representative. A copy of this letter is included in the collection file.
 
 C. Deaccession Form
+
 Any deaccessioned collection includes a form containing information about the collection as well as the disposition of the records subsequent to deaccessioning.
 
 D. Transfer Paperwork
+
 If the collection is transferred, documentation for that process includes correspondence with other repositories regarding the transfer, and transfer of records paperwork for the receiving
 repository.
 
 E. Shipping Paperwork
+
 If the collection is transferred to another repository or returned to the donor, the RAC covers the expense of shipping. Any shipping paperwork is included in the collection file.
 
 F. Destruction Paperwork
+
 In certain instances, the RAC may have an outside vendor shred materials that have been deemed non-archival or inappropriate for the RAC. Any paperwork documenting this process (forms, correspondence, etc.) is included in the collection file.
