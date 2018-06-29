@@ -74,11 +74,11 @@ Background information on the collection being reappraised should be compiled pr
 
 B.  Submission Process
 
-Potential reappraisal projects should be submitted to the appraisal archivist. The staff member making the submission should complete the first part of the Reappraisal Form (See Appendix A) and submit a copy to the Appraisal Archivist. The appraisal archivist will submit the request to the Director of Archives and the President of the Rockefeller Archive Center for approval to begin the reappraisal process.
+Potential reappraisal projects should be submitted to the appraisal archivist. The staff member making the submission should complete the first part of the Reappraisal Form and submit a copy to the Appraisal Archivist. The appraisal archivist will submit the request to the Director of Archives and the President of the Rockefeller Archive Center for approval to begin the reappraisal process.
 
 C. Reappraisal Questions
 
-To make an informed reappraisal decision, the following questions will be answered in the context of the Reappraisal Form (See Appendix A).
+To make an informed reappraisal decision, the following questions will be answered in the context of the Reappraisal Form.
 
 -   What is the collection name associated with the records?
 
