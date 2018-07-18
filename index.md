@@ -50,7 +50,7 @@ B.  Does the collection have records that are not unique or archival?
 
 C.  Is the provenance of the collection known?
 
-D.  Is the collection used by researchers or, if it is not currently open for research, does the collection have the potential for significant research use?
+D.  Is the collection used by researchers or, if it is not currently open for research, does the collection have the potential for research use?
 
 E.  Is the collection on deposit?
 
@@ -58,13 +58,11 @@ F.  Are there extensive restrictions on the collection?
 
 G.  Is the entirety or a significant part of the collection permanently closed?
 
-H.  Is there a lack of description of the collection’s contents?
-
-I.  Does another repository have a preponderance of records from this
+H.  Does another repository have a preponderance of records from this
     collection’s creator and, if so, would the researcher community be
     better served if this collection were offered to that repository?
     
-J. Are there clearly established legal commitments that require the RAC to retain restricted materials of the creator?
+I. Are there clearly established legal commitments that require the RAC to retain restricted materials of the creator?
 
 ## The Reappraisal Process
 
