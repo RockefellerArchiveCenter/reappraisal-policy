@@ -1,0 +1,9 @@
+public: true
+type: "docs"
+tags:
+  - "policy"
+  - "reappraisal"
+title: "Reappraisal Policy"
+description: "Principles and criteria for archival reappraisal."
+pages:
+  - ["Reappraisal Policy", "index"]
