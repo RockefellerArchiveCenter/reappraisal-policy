@@ -30,7 +30,7 @@ A.  To correct inaccurate appraisals on collections or reassess items
 
 B.  To align accessioned holdings with current collecting policies.
 
-C.  To prioritize processing backlogs.  
+C.  To prioritize processing backlogs.
 
 D.  To better allocate resources needed for collection maintenance,
     processing, and preservation.
@@ -77,7 +77,6 @@ Potential reappraisal projects should be submitted to the appraisal archivist. T
 C. Reappraisal Questions
 
 To make an informed reappraisal decision, the following questions will be answered in the context of the Reappraisal Form.
-
 -   What is the collection name associated with the records?
 -   Does the RAC have ownership of the records?
 -   Does the RAC have any legal requirements to keep the collection?
