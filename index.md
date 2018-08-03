@@ -26,18 +26,18 @@ D. This policy applies to materials accessioned into the RAC collections. It doe
 Reappraisal and potential subsequent deaccessioning is used by the RAC to achieve some of the following objectives:
 
 A.  To correct inaccurate appraisals on collections or reassess items
-    that were never appraised. 
-    
+    that were never appraised.
+
 B.  To align accessioned holdings with current collecting policies.
 
 C.  To prioritize processing backlogs.  
 
 D.  To better allocate resources needed for collection maintenance,
     processing, and preservation.
-    
+
 E.  To better assess collection strengths and refine future collecting
     priorities.  
-    
+
 F.  To improve overall access to the materials.  
 
 ## Criteria for Considering Collections for Reappraisal
@@ -61,7 +61,7 @@ G.  Is the entirety or a significant part of the collection permanently closed?
 H.  Does another repository have a preponderance of records from this
     collection’s creator and, if so, would the researcher community be
     better served if this collection were offered to that repository?
-    
+
 I. Are there clearly established legal commitments that require the RAC to retain restricted materials of the creator?
 
 ## The Reappraisal Process
@@ -79,59 +79,37 @@ C. Reappraisal Questions
 To make an informed reappraisal decision, the following questions will be answered in the context of the Reappraisal Form.
 
 -   What is the collection name associated with the records?
-
 -   Does the RAC have ownership of the records?
-
 -   Does the RAC have any legal requirements to keep the collection?
-
 -   Has the donor of the collection or another institution/individual
     provided funding for processing, staffing, preservation work, or
     additions to the RAC endowment?
-
 -   What is the approximate cubic footage of the collection?
-
 -   Does the collection contain archival material?
-
 -   Does the collection fall within the Collection Policy of the RAC?
-
 -   Are there any access restrictions on the collection?
-
 -   Are there electronic records in the collection? What is their
     extent?
-
 -   Does the collection include special formats? If so, what are the
     types and their extent?
-
 -   Has preservation work been done on the collection previously?
-
 -   Does the collection have formats that are obsolete or physically
     degraded beyond use? Is the collection or any part of the collection
     hazardous to the staff or other collections?
-
 -   What are the types of records present in the collection (i.e.
     correspondence, subject files, board minutes, etc.)?
-
 -   Have materials been removed from the collection?
-
 -   Does an inventory or finding aid exist for the collection?
-
 -   Has the collection been made accessible to researchers?
-
 -   How often has the collection been accessed by researchers?
-
 -   Has the collection been used by RAC staff? If so, how?
-
 -   Has any part of the collection ever been charged out to the donor
     institution?
-
 -   Has any part of the collection ever been lent to other institutions?
-
 -   How did the collection come to the RAC?
-
 -   Is there another repository to which the materials could be
     transferred if the records are deemed not appropriate for the RAC
     and the agreement allows it?
-
 -   What are the potential costs related to the deaccessioning and
     disposition of the records if they are deemed inappropriate for the
     RAC (transfer or disposal)?
