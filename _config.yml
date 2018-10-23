@@ -1,5 +1,6 @@
 public: true
 type: "docs"
+category: "collection management and development"
 tags:
   - "policy"
   - "reappraisal"
