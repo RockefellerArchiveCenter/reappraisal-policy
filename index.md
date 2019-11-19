@@ -1,6 +1,6 @@
 ---
 layout: docs
-title:  "Rockefeller Archive Center Reappraisal Policy"
+title:  "Reappraisal Policy"
 ---
 
 ## Statement of Purpose
